@@ -1,5 +1,5 @@
 body {
-  background: #f9a576;
+  background: #f8efd4;
   font-family: Roboto;
 }
 
@@ -17,7 +17,7 @@ li {
 }
 
 span {
-  background: #e74c3c;
+  background: #d7385e;
   display: inline-block;
   height: 40px;
   width: 0;
@@ -48,12 +48,12 @@ input {
   font-size: 18px;
   background: #f7f7f7;
   box-sizing: border-box;
-  color: #f1754e;
+  color: #132743;
   border: 3px solid rgba(0, 0, 0, 0);
 }
 li:hover span {
   width: 40px;
-  opacity: 1.0;
+  opacity: 1;
 }
 li:nth-child(even) {
   background: white;
@@ -61,12 +61,12 @@ li:nth-child(even) {
 
 input:focus {
   background: #fff;
-  border: 2px solid #f1754e;
+  border: 2px solid #132743;
   outline: none;
 }
 
 .tableHead {
-  background: #f1754e;
+  background: #132743;
 }
 
 .fa-plus {
